@@ -11,16 +11,16 @@ The app is structured to provide an intuitive interface that responds to the dis
 * Items Overview: The app gives customers the ability to browse the full range of items available, giving them full visibility of product offerings.
 * Individual Item Inspection and Selection:Customers are given the functionality to review each item in detail and have the option to incorporate chosen items into their shopping cart, increasing the accuracy and personalization of their shopping experience.
 * Transaction Processing: The platform supports transaction execution, whereby customers can formalise their purchases by generating an invoice.
-* Update profile: Customers have the ability to make changes to their profile information.
-* BAasket history: A customer possesses the functionality to access and view the shopping baskets associated with their account
+* Update Profile: Customers have the ability to make changes to their profile information.
+* Transactions History: A customer possesses the functionality to access and view the shopping baskets associated with their account
   
 ### *For Administrators:*
 
 * Item Addition: Administrators are provided with the tools to augment the inventory by introducing new items, ensuring the product offerings remain fresh and relevant.
 * Item Modification: The system gives administrators the ability to update existing articles, allowing dynamic adjustment of details 
 * Item Removal: Administrators have the authority to remove items from the inventory, facilitating efficient inventory management and the removal of obsolete products.
-* View invoices: The application, when utilized by an administrator, had the capacity to access and view all invoices that had been generated.
-* Manage invoices: The administrator has the ability to access and review invoices that are associated with a specific shopping basket
+* View Invoices: The application, when utilized by an administrator, had the capacity to access and view all invoices that had been generated.
+* Manage Invoices: The administrator has the ability to access and review invoices that are associated with a specific shopping basket
   
 ## Entity-relationship diagram:
 ![JavaWebAppFoodShop drawio](https://github.com/adrianastefania11/ProiectJavaFoodShop/assets/79542005/8b97537c-b4a5-4238-bb42-65321af87696)
