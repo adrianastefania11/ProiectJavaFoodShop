@@ -18,7 +18,7 @@ public class InvoiceController {
     private InvoiceService invoiceService;
 
     @GetMapping("/basket/{id}")
-    public ResponseEntity<InvoiceDto> getInvoiceWithOrder(@PathVariable Long id) {
+    public ResponseEntity<InvoiceDto> getInvoiceWithBasket(@PathVariable Long id) {
         return ResponseEntity
                 .ok()
                 .body(invoiceService.getInvoiceWithBasket(id));
