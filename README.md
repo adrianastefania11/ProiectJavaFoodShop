@@ -29,7 +29,7 @@ The app is structured to provide an intuitive interface that responds to the dis
 
 ![image](https://github.com/adrianastefania11/ProiectJavaFoodShop/assets/79542005/a6118949-47df-4a81-871a-798c3e2ed3f2)
 
-##MVP features
+## MVP features
 
 ### Basket Controller
 - `GET /baskets/basketbycustomer`: Retrieve a customer's shopping basket.
