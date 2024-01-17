@@ -13,3 +13,8 @@ This application is a simple implementation of a shop, allows the customer to cr
    
 ## Entity-relationship diagram:
 ![JavaWebAppFoodShop drawio](https://github.com/adrianastefania11/ProiectJavaFoodShop/assets/79542005/8b97537c-b4a5-4238-bb42-65321af87696)
+
+##Swagger Documentation
+
+![image](https://github.com/adrianastefania11/ProiectJavaFoodShop/assets/79542005/a6118949-47df-4a81-871a-798c3e2ed3f2)
+
